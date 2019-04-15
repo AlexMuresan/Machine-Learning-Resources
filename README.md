@@ -18,6 +18,9 @@ Resources to use when studying machine learning
 * [List of papers regarding deep learning](https://github.com/terryum/awesome-deep-learning-papers)
 * [Papers that have open-sourced code](https://paperswithcode.com/)
 
+## Courses:
+* [MIT deep learning course](https://www.youtube.com/watch?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf&v=O5xeyoRL95U)
+
 ## Books:
 * [Pattern Recognition and Machine Learning - Christopher Bishop](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
 * [Deep Learning - Ian Goodfellow, Yoshua Bengio, Aaron Courville](https://github.com/janishar/mit-deep-learning-book-pdf)
