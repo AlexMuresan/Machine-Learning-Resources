@@ -12,6 +12,7 @@ Resources to use when studying machine learning
 * [MIT deep learning course examples](https://github.com/lexfridman/mit-deep-learning)
 * [Predicting bitcoin value](https://towardsdatascience.com/using-recurrent-neural-networks-to-predict-bitcoin-btc-prices-c4ff70f9f3e4)
 * [Introduction to reinforcement learning](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
+* [A Brief Introduction to GANs](https://medium.com/sigmoid/a-brief-introduction-to-gans-and-how-to-code-them-2620ee465c30)
 
 ## Papers:
 * [List of papers regarding object detection](https://github.com/hoya012/deep_learning_object_detection)
