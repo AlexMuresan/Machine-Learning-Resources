@@ -7,6 +7,7 @@ Resources that aid studying machine learning
 * [MNIST](https://towardsdatascience.com/image-classification-in-10-minutes-with-mnist-dataset-54c35b77a38d)
 * [CIFAR 10](https://github.com/deep-diver/CIFAR10-img-classification-tensorflow)
 * [Pytorch examples](https://pytorch.org/tutorials/beginner/pytorch_with_examples.html)
+* [Pytorch deep learning](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
 
 ### Intermediate:
 * [MIT deep learning course examples](https://github.com/lexfridman/mit-deep-learning)
