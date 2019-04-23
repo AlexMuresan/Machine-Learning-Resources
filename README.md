@@ -1,5 +1,5 @@
-# Machine-Learning-Resources
-Resources to use when studying machine learning
+# Machine Learning Resources
+Resources that aid studying machine learning
 
 ## Tutorials:
 ### Beginner:
