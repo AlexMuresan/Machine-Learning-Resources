@@ -24,11 +24,17 @@ Resources that aid studying machine learning
 * [MIT deep learning course](https://www.youtube.com/watch?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf&v=O5xeyoRL95U)
 * [Free machine learning courses](https://techgrabyte.com/best-machine-learning-course-free/)
 * [Image classification with Keras and transfer learning (paid)](https://www.pluralsight.com/courses/building-image-classification-solutions-keras-transfer-learning)
+* [Reinforcement learning - Youtube Videos from deeplizard](https://www.youtube.com/playlist?list=PLZbbT5o_s2xoWNVdDudn51XM8lOuZ_Njv)
+* [Fast.ai](https://www.fast.ai/)
 
 ## Books:
 * [Pattern Recognition and Machine Learning - Christopher Bishop](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
 * [Deep Learning - Ian Goodfellow, Yoshua Bengio, Aaron Courville](https://github.com/janishar/mit-deep-learning-book-pdf)
 * [Reinforcement Learnig - Richard S. Sutton, Andrew G. Barto](http://incompleteideas.net/book/RLbook2018.pdf)
+* [The Hundred-Page Machine Learning Book](https://www.amazon.com/Hundred-Page-Machine-Learning-Book/dp/199957950X)
+* [Machine Learning: A Probabilistic Perspective (Adaptive Computation and Machine Learning series)](https://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020/ref=mp_s_a_1_4?keywords=machine+learning&qid=1556172843&s=gateway&sr=8-4)
+* [Understanding Machine Learning: From Theory to Algorithms](https://www.amazon.com/Understanding-Machine-Learning-Theory-Algorithms/dp/1107057132/ref=mp_s_a_1_16?keywords=machine+learning&qid=1556172889&s=gateway&sr=8-16)
+* [Machine Learning: An Algorithmic Perspective, Second Edition](https://www.amazon.com/Machine-Learning-Algorithmic-Perspective-Recognition/dp/1466583282/ref=mp_s_a_1_1?crid=QPG7SBC0L7P8&keywords=machine+learning+algorithmic+perspective&qid=1556172917&s=gateway&sprefix=machine+learning+algorithmic&sr=8-1)
 
 ## Podcasts: 
 * [Podcast that goes with the MIT deep learnig course](https://deeplearning.mit.edu/)
