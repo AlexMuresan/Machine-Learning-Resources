@@ -29,9 +29,9 @@ Resources that aid studying machine learning
 * [Comapanion website for The Hundred-Page ML Book](http://themlbook.com/wiki/doku.php)
 
 ## Books:
-* [Pattern Recognition and Machine Learning - Christopher Bishop](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
-* [Deep Learning - Ian Goodfellow, Yoshua Bengio, Aaron Courville](https://github.com/janishar/mit-deep-learning-book-pdf)
-* [Reinforcement Learnig - Richard S. Sutton, Andrew G. Barto](http://incompleteideas.net/book/RLbook2018.pdf)
+* Pattern Recognition and Machine Learning - Christopher Bishop - [PDF](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
+* Deep Learning - Ian Goodfellow, Yoshua Bengio, Aaron Courville - [PDF](https://github.com/janishar/mit-deep-learning-book-pdf)
+* Reinforcement Learnig - Richard S. Sutton, Andrew G. Barto - [PDF](http://incompleteideas.net/book/RLbook2018.pdf)
 * The Hundred-Page Machine Learning Book - [Amazon](https://www.amazon.com/Hundred-Page-Machine-Learning-Book/dp/199957950X) | [PDF](http://themlbook.com/wiki/doku.php)
 * Machine Learning: A Probabilistic Perspective - [Amazon](https://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020/ref=mp_s_a_1_4?keywords=machine+learning&qid=1556172843&s=gateway&sr=8-4) | [PDF](https://doc.lagout.org/science/Artificial%20Intelligence/Machine%20learning/Machine%20Learning_%20A%20Probabilistic%20Perspective%20%5BMurphy%202012-08-24%5D.pdf)
 * Understanding Machine Learning: From Theory to Algorithms - [Amazon](https://www.amazon.com/Understanding-Machine-Learning-Theory-Algorithms/dp/1107057132/ref=mp_s_a_1_16?keywords=machine+learning&qid=1556172889&s=gateway&sr=8-16) | [PDF](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
