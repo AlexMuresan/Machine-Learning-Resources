@@ -36,7 +36,11 @@ Resources that aid studying machine learning
 * [Understanding Machine Learning: From Theory to Algorithms](https://www.amazon.com/Understanding-Machine-Learning-Theory-Algorithms/dp/1107057132/ref=mp_s_a_1_16?keywords=machine+learning&qid=1556172889&s=gateway&sr=8-16)
 * [Machine Learning: An Algorithmic Perspective, Second Edition](https://www.amazon.com/Machine-Learning-Algorithmic-Perspective-Recognition/dp/1466583282/ref=mp_s_a_1_1?crid=QPG7SBC0L7P8&keywords=machine+learning+algorithmic+perspective&qid=1556172917&s=gateway&sprefix=machine+learning+algorithmic&sr=8-1)
 
-## Podcasts: 
+## Other:
+### Podcasts: 
 * [Podcast that goes with the MIT deep learnig course](https://deeplearning.mit.edu/)
 * [Nvidia AI podcast](https://blogs.nvidia.com/ai-podcast/)
 * [Weekly news in ML&AI](https://twimlai.com/)
+
+### AI Overview:
+* [University of Helsinky introductory course](https://www.elementsofai.com)
