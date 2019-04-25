@@ -26,14 +26,15 @@ Resources that aid studying machine learning
 * [Image classification with Keras and transfer learning (paid)](https://www.pluralsight.com/courses/building-image-classification-solutions-keras-transfer-learning)
 * [Reinforcement learning - Youtube Videos from deeplizard](https://www.youtube.com/playlist?list=PLZbbT5o_s2xoWNVdDudn51XM8lOuZ_Njv)
 * [Fast.ai](https://www.fast.ai/)
+* [Comapanion website for The Hundred-Page ML Book](http://themlbook.com/wiki/doku.php)
 
 ## Books:
 * [Pattern Recognition and Machine Learning - Christopher Bishop](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
 * [Deep Learning - Ian Goodfellow, Yoshua Bengio, Aaron Courville](https://github.com/janishar/mit-deep-learning-book-pdf)
 * [Reinforcement Learnig - Richard S. Sutton, Andrew G. Barto](http://incompleteideas.net/book/RLbook2018.pdf)
 * [The Hundred-Page Machine Learning Book](https://www.amazon.com/Hundred-Page-Machine-Learning-Book/dp/199957950X)
-* [Machine Learning: A Probabilistic Perspective (Adaptive Computation and Machine Learning series)](https://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020/ref=mp_s_a_1_4?keywords=machine+learning&qid=1556172843&s=gateway&sr=8-4)
-* [Understanding Machine Learning: From Theory to Algorithms](https://www.amazon.com/Understanding-Machine-Learning-Theory-Algorithms/dp/1107057132/ref=mp_s_a_1_16?keywords=machine+learning&qid=1556172889&s=gateway&sr=8-16)
+* Machine Learning: A Probabilistic Perspective (Adaptive Computation and Machine Learning series) - [Amazon](ttps://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020/ref=mp_s_a_1_4?keywords=machine+learning&qid=1556172843&s=gateway&sr=8-4) and [PDF](https://doc.lagout.org/science/Artificial%20Intelligence/Machine%20learning/Machine%20Learning_%20A%20Probabilistic%20Perspective%20%5BMurphy%202012-08-24%5D.pdf)
+* Understanding Machine Learning: From Theory to Algorithms - [Amazon](https://www.amazon.com/Understanding-Machine-Learning-Theory-Algorithms/dp/1107057132/ref=mp_s_a_1_16?keywords=machine+learning&qid=1556172889&s=gateway&sr=8-16) and [PDF](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
 * [Machine Learning: An Algorithmic Perspective, Second Edition](https://www.amazon.com/Machine-Learning-Algorithmic-Perspective-Recognition/dp/1466583282/ref=mp_s_a_1_1?crid=QPG7SBC0L7P8&keywords=machine+learning+algorithmic+perspective&qid=1556172917&s=gateway&sprefix=machine+learning+algorithmic&sr=8-1)
 
 ## Other:
