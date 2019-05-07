@@ -49,3 +49,6 @@ Resources that aid studying machine learning
 
 ### AI Overview:
 * [University of Helsinky introductory course](https://www.elementsofai.com)
+
+## TO-DO:
+* Research ML in Java and Scala
