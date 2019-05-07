@@ -44,6 +44,7 @@ Resources that aid studying machine learning
 
 ### Benchmarks:
 * [MLPerf](https://mlperf.org/results/)
+* [Borealis AI - PyTorch vs MXNet](https://www.borealisai.com/en/blog/standardizing-machine-learning-framework-applied-research/)
 
 ### AI Overview:
 * [University of Helsinky introductory course](https://www.elementsofai.com)
