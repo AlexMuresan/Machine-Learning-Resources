@@ -42,5 +42,8 @@ Resources that aid studying machine learning
 * [Nvidia AI podcast](https://blogs.nvidia.com/ai-podcast/)
 * [Weekly news in ML&AI](https://twimlai.com/)
 
+### Benchmarks:
+* [MLPerf](https://mlperf.org/results/)
+
 ### AI Overview:
 * [University of Helsinky introductory course](https://www.elementsofai.com)
