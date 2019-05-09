@@ -26,6 +26,7 @@ Resources that aid studying machine learning
 * [Image classification with Keras and transfer learning (paid)](https://www.pluralsight.com/courses/building-image-classification-solutions-keras-transfer-learning)
 * [Reinforcement learning - Youtube Videos from deeplizard](https://www.youtube.com/playlist?list=PLZbbT5o_s2xoWNVdDudn51XM8lOuZ_Njv)
 * [Fast.ai](https://www.fast.ai/)
+* Gluon/MXNet introduction - [PDF](https://github.com/zackchase/gluon-slides/blob/master/sept18-gluon.pdf)
 
 ## Books:
 * Pattern Recognition and Machine Learning - Christopher Bishop - [PDF](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
@@ -42,5 +43,12 @@ Resources that aid studying machine learning
 * [Nvidia AI podcast](https://blogs.nvidia.com/ai-podcast/)
 * [Weekly news in ML&AI](https://twimlai.com/)
 
+### Benchmarks:
+* [MLPerf](https://mlperf.org/results/)
+* [Borealis AI - PyTorch vs MXNet](https://www.borealisai.com/en/blog/standardizing-machine-learning-framework-applied-research/)
+
 ### AI Overview:
 * [University of Helsinky introductory course](https://www.elementsofai.com)
+
+## TO-DO:
+* Research ML in Java and Scala
