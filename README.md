@@ -8,6 +8,7 @@ Resources that aid studying machine learning
 * [CIFAR 10](https://github.com/deep-diver/CIFAR10-img-classification-tensorflow)
 * [Pytorch examples](https://pytorch.org/tutorials/beginner/pytorch_with_examples.html)
 * [Pytorch deep learning](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
+* [Pytorch simple fully-connected network](https://adventuresinmachinelearning.com/pytorch-tutorial-deep-learning/)
 
 ### Intermediate:
 * [MIT deep learning course examples](https://github.com/lexfridman/mit-deep-learning)
