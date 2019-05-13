@@ -42,6 +42,7 @@ Resources that aid studying machine learning
 ## Math:
 * Immersive math - Linear algebra - [Website](http://immersivemath.com/ila/index.html)
 * Bezier curves - [Online book](https://pomax.github.io/bezierinfo/)
+* Computational linear algebra for coders - [GitRepo](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md)
 
 ## Other:
 ### Podcasts: 
