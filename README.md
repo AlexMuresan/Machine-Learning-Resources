@@ -15,6 +15,7 @@ Resources that aid studying machine learning
 * [Predicting bitcoin value](https://towardsdatascience.com/using-recurrent-neural-networks-to-predict-bitcoin-btc-prices-c4ff70f9f3e4)
 * [Introduction to reinforcement learning](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
 * [A Brief Introduction to GANs](https://medium.com/sigmoid/a-brief-introduction-to-gans-and-how-to-code-them-2620ee465c30)
+* [Transfer learning with Pytorch](https://towardsdatascience.com/transfer-learning-with-convolutional-neural-networks-in-pytorch-dd09190245ce)
 
 ## Papers:
 * [List of papers regarding object detection](https://github.com/hoya012/deep_learning_object_detection)
