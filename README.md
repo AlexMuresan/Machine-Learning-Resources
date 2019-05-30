@@ -24,6 +24,7 @@ Resources that aid studying machine learning
 
 ## Courses:
 * [MIT deep learning course](https://www.youtube.com/watch?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf&v=O5xeyoRL95U)
+* Cornell machine learning course - [YouTube](https://www.youtube.com/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS) | [Notes](http://www.cs.cornell.edu/courses/cs4780/2018fa/syllabus/index.html)
 * [Free machine learning courses](https://techgrabyte.com/best-machine-learning-course-free/)
 * [Image classification with Keras and transfer learning (paid)](https://www.pluralsight.com/courses/building-image-classification-solutions-keras-transfer-learning)
 * [Reinforcement learning - Youtube Videos from deeplizard](https://www.youtube.com/playlist?list=PLZbbT5o_s2xoWNVdDudn51XM8lOuZ_Njv)
