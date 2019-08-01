@@ -53,6 +53,7 @@ Resources that aid studying machine learning
 * [Podcast that goes with the MIT deep learnig course](https://deeplearning.mit.edu/)
 * [Nvidia AI podcast](https://blogs.nvidia.com/ai-podcast/)
 * [Weekly news in ML&AI](https://twimlai.com/)
+* [Data Engineering Podcast](https://www.dataengineeringpodcast.com/)
 
 ### Benchmarks:
 * [MLPerf](https://mlperf.org/results/)
