@@ -21,6 +21,7 @@ Resources that aid studying machine learning
 * [List of papers regarding object detection](https://github.com/hoya012/deep_learning_object_detection)
 * [List of papers regarding deep learning](https://github.com/terryum/awesome-deep-learning-papers)
 * [Papers that have open-sourced code](https://paperswithcode.com/)
+* [The Surprising Creativity of  Digital Evolution](https://github.com/AlexMuresan/Machine-Learning-Resources/blob/master/Papers/1803.03453.pdf)
 
 ## Courses:
 * [MIT deep learning course](https://www.youtube.com/watch?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf&v=O5xeyoRL95U)
@@ -45,6 +46,7 @@ Resources that aid studying machine learning
 * Immersive math - Linear algebra - [Website](http://immersivemath.com/ila/index.html)
 * Bezier curves - [Online book](https://pomax.github.io/bezierinfo/)
 * Computational linear algebra for coders - [GitRepo](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md)
+* Math for CompSci and ML - [PDF](https://github.com/AlexMuresan/Machine-Learning-Resources/blob/master/Books/math-basics.pdf)
 
 ## Other:
 ### Podcasts: 
