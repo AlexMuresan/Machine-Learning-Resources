@@ -33,6 +33,7 @@ Resources that aid studying machine learning
 * [Fast.ai](https://www.fast.ai/)
 * Gluon/MXNet introduction - [PDF](https://github.com/zackchase/gluon-slides/blob/master/sept18-gluon.pdf)
 * [EEML Resources - (Mostly PDFs)](https://www.eeml.eu/resources)
+* [Dive into Deep Learning](http://d2l.ai/)
 
 ## Books:
 * Pattern Recognition and Machine Learning - Christopher Bishop - [PDF](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
