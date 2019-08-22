@@ -8,6 +8,12 @@ Resources that aid studying machine learning
 * [CIFAR 10](https://github.com/deep-diver/CIFAR10-img-classification-tensorflow)
 * [Pytorch examples](https://pytorch.org/tutorials/beginner/pytorch_with_examples.html)
 * [Pytorch deep learning](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
+* Understanding pytorch fundamentals: 
+  * [Part 1 - Graphs and automatic differentiation](https://blog.paperspace.com/pytorch-101-understanding-graphs-and-automatic-differentiation/)
+  * [Part 2 - Building a neural net](https://blog.paperspace.com/pytorch-101-building-neural-networks/)
+  * [Part 3 - Building a deeep neural net](https://blog.paperspace.com/pytorch-101-advanced/)
+  * [Part 4 - Multi-GPU debugging](https://blog.paperspace.com/pytorch-memory-multi-gpu-debugging/)
+  * [Part 5 - Hooks, gradient clipping and debugging](https://blog.paperspace.com/pytorch-hooks-gradient-clipping-debugging/)
 * [Pytorch simple fully-connected network](https://adventuresinmachinelearning.com/pytorch-tutorial-deep-learning/)
 
 ### Intermediate:
