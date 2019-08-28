@@ -23,6 +23,11 @@ Resources that aid studying machine learning
 * [A Brief Introduction to GANs](https://medium.com/sigmoid/a-brief-introduction-to-gans-and-how-to-code-them-2620ee465c30)
 * [Transfer learning with Pytorch](https://towardsdatascience.com/transfer-learning-with-convolutional-neural-networks-in-pytorch-dd09190245ce)
 * [Practical Session from EEML - 2019](https://github.com/eeml2019/PracticalSessions)
+* [Minimal Implementations of Reinforcement Learning Algorithms](https://github.com/seungeunrho/minimalRL)
+
+### Advanced:
+* ELF OpenGo from Facebook Research - [Code](https://github.com/pytorch/ELF) | [Blogpost](https://research.fb.com/facebook-open-sources-elf-opengo/)
+* Reinforcement Learning in Unity - [Blogpost](https://towardsdatascience.com/gettingstartedwithmarathonenvs-v0-5-0a-c1054a0b540c)
 
 ## Papers:
 * [List of papers regarding object detection](https://github.com/hoya012/deep_learning_object_detection)
@@ -40,6 +45,8 @@ Resources that aid studying machine learning
 * Gluon/MXNet introduction - [PDF](https://github.com/zackchase/gluon-slides/blob/master/sept18-gluon.pdf)
 * [EEML Resources - (Mostly PDFs)](https://www.eeml.eu/resources)
 * Dive into Deep Learning - [MXNet Version](http://d2l.ai/) | [Numpy Version](http://numpy.d2l.ai/) | [Syllabus](https://courses.d2l.ai/berkeley-stat-157/syllabus.html)
+* [Lectures on Reinforcement Learning by DeepMind](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
+* [Lectures on Reinforcement Learning by Stanford](https://onlinehub.stanford.edu/cs234)
 
 ## Books:
 * Pattern Recognition and Machine Learning - Christopher Bishop - [PDF](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
