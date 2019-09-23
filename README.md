@@ -64,6 +64,7 @@ Resources that aid studying machine learning
 * Bezier curves - [Online book](https://pomax.github.io/bezierinfo/)
 * Computational linear algebra for coders - [GitRepo](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md)
 * Math for CompSci and ML - [PDF](https://github.com/AlexMuresan/Machine-Learning-Resources/blob/master/Books/math-basics.pdf)
+* [Linear Algebra Course - Neil Strickland](https://neil-strickland.staff.shef.ac.uk/courses/MAS201/)
 
 ## Other:
 ### Podcasts: 
