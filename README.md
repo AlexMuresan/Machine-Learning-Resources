@@ -29,6 +29,7 @@ Resources that aid studying machine learning
 * ELF OpenGo from Facebook Research - [Code](https://github.com/pytorch/ELF) | [Blogpost](https://research.fb.com/facebook-open-sources-elf-opengo/)
 * Reinforcement Learning in Unity - [Blogpost](https://towardsdatascience.com/gettingstartedwithmarathonenvs-v0-5-0a-c1054a0b540c)
 * [Reinforcement Learrning Algorithms in PyTorch](https://github.com/p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch)
+* [Hamiltonian Monte Carlo Method](https://bayesianbrad.github.io/posts/2019_hmc.html#mjx-eqn-one)
 
 ## Papers:
 * [List of papers regarding object detection](https://github.com/hoya012/deep_learning_object_detection)
