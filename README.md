@@ -52,6 +52,8 @@ Resources that aid studying machine learning
 
 ## Books:
 * Pattern Recognition and Machine Learning - Christopher Bishop - [PDF](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
+* Elements of Statistical Learning - Hastie, Tibshirani, Friedman - [PDF](https://github.com/AlexMuresan/Machine-Learning-Resources/blob/master/Books/ESLII_print12.pdf)
+* Introduction to Statistical Learning - Casella, Fienberg, Olkin - [PDF](https://github.com/AlexMuresan/Machine-Learning-Resources/blob/master/Books/ISLR%20Seventh%20Printing.pdf)
 * Deep Learning - Ian Goodfellow, Yoshua Bengio, Aaron Courville - [PDF](https://github.com/janishar/mit-deep-learning-book-pdf)
 * Reinforcement Learnig - Richard S. Sutton, Andrew G. Barto - [PDF](http://incompleteideas.net/book/RLbook2018.pdf)
 * The Hundred-Page Machine Learning Book - [Amazon](https://www.amazon.com/Hundred-Page-Machine-Learning-Book/dp/199957950X) | [PDF](http://themlbook.com/wiki/doku.php)
