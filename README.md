@@ -61,6 +61,7 @@ Resources that aid studying machine learning
 * Understanding Machine Learning: From Theory to Algorithms - [Amazon](https://www.amazon.com/Understanding-Machine-Learning-Theory-Algorithms/dp/1107057132/ref=mp_s_a_1_16?keywords=machine+learning&qid=1556172889&s=gateway&sr=8-16) | [PDF](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
 * Machine Learning: An Algorithmic Perspective, Second Edition - [Amazon](https://www.amazon.com/Machine-Learning-Algorithmic-Perspective-Recognition/dp/1466583282/ref=mp_s_a_1_1?crid=QPG7SBC0L7P8&keywords=machine+learning+algorithmic+perspective&qid=1556172917&s=gateway&sprefix=machine+learning+algorithmic&sr=8-1) | [PDF](https://doc.lagout.org/science/Artificial%20Intelligence/Machine%20learning/Machine%20Learning_%20An%20Algorithmic%20Perspective%20%282nd%20ed.%29%20%5BMarsland%202014-10-08%5D.pdf)
 * Hands On Machine Learning 2.0 - [PDF](https://github.com/AlexMuresan/Machine-Learning-Resources/blob/master/Books/Hands-on-Machine-Learning-with-Scikit-2E.pdf)
+* Statistics in a Nutshell - [PDF](https://github.com/AlexMuresan/Machine-Learning-Resources/blob/master/Books/Sarah_Boslaugh_Paul_Watters-Statistics_in_a_Nutshell-EN.pdf)
 
 ## Math:
 * Immersive math - Linear algebra - [Website](http://immersivemath.com/ila/index.html)
