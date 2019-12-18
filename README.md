@@ -15,6 +15,7 @@ Resources that aid studying machine learning
   * [Part 4 - Multi-GPU debugging](https://blog.paperspace.com/pytorch-memory-multi-gpu-debugging/)
   * [Part 5 - Hooks, gradient clipping and debugging](https://blog.paperspace.com/pytorch-hooks-gradient-clipping-debugging/)
 * [Pytorch simple fully-connected network](https://adventuresinmachinelearning.com/pytorch-tutorial-deep-learning/)
+* [List of NLP projects with pretrained models](https://towardsdatascience.com/a-list-of-beginner-friendly-nlp-projects-using-pre-trained-models-dc4768b4bec0)
 
 ### Intermediate:
 * [MIT deep learning course examples](https://github.com/lexfridman/mit-deep-learning)
