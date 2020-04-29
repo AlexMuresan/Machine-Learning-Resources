@@ -87,5 +87,8 @@ Resources that aid studying machine learning
 ### AI Overview:
 * [University of Helsinky introductory course](https://www.elementsofai.com)
 
+### Personal Takes:
+* [Overview of YOLACT++ Paper](https://github.com/AlexMuresan/Machine-Learning-Resources/blob/master/YOLACT-tldr-document.pdf)
+
 ## TO-DO:
 * Research ML in Java and Scala
