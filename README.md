@@ -89,6 +89,3 @@ Resources that aid studying machine learning
 
 ### Personal Takes:
 * [Overview of YOLACT++ Paper](https://github.com/AlexMuresan/Machine-Learning-Resources/blob/master/YOLACT-tldr-document.pdf)
-
-## TO-DO:
-* Research ML in Java and Scala
